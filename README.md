@@ -46,19 +46,6 @@ I grew from intern to Engineering Manager at one company. Today I lead 20+ engin
 
 ---
 
-## ⚙️ Tech stack
-
-**Languages**&nbsp;&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-
-**Frameworks**&nbsp;&nbsp;
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-
----
-
 ## 🧠 How I work
 
 - **Model the domain first.** Good architecture starts with understanding the business, not the framework.
