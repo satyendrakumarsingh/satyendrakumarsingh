@@ -20,10 +20,10 @@ I lead teams of 20+ engineers, set architecture standards, mentor senior enginee
 
 ### By the numbers
 <p align="center">
-  <img src="https://img.shields.io/badge/10%2B-Years_in_fintech-0A66C2?style=for-the-badge" alt="10+ years in fintech" />
-  <img src="https://img.shields.io/badge/10M%2B-Daily_transactions-0A66C2?style=for-the-badge" alt="10M+ daily transactions" />
-  <img src="https://img.shields.io/badge/99.99%25-System_uptime-0A66C2?style=for-the-badge" alt="99.99% system uptime" />
-  <img src="https://img.shields.io/badge/20%2B-Engineers_led-0A66C2?style=for-the-badge" alt="20+ engineers led" />
+  <img src="https://img.shields.io/badge/10%2B-Years_in_fintech-0A66C2?style=flat-square&labelColor=444" alt="10+ Years in fintech" />
+  <img src="https://img.shields.io/badge/10M%2B-Daily_transactions-0A66C2?style=flat-square&labelColor=444" alt="10M+ Daily transactions" />
+  <img src="https://img.shields.io/badge/99.99%25-System_uptime-0A66C2?style=flat-square&labelColor=444" alt="99.99% System uptime" />
+  <img src="https://img.shields.io/badge/20%2B-Engineers_led-0A66C2?style=flat-square&labelColor=444" alt="20+ Engineers led" />
 </p>
 
 ### What I work on
