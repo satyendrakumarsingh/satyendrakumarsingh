@@ -57,7 +57,8 @@ I grew from intern to Engineering Manager at one company. Today I lead 20+ engin
 
 ## 🎓 Education
 
-MCA, Master of Computer Applications (2013–2016) · BCA, Bachelor of Computer Applications (2010–2013)
+**MCA**, Master of Computer Applications (2013–2016)<br>
+**BCA**, Bachelor of Computer Applications (2010–2013)
 
 ---
 
