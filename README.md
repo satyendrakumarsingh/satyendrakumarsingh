@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Satyendra Singh 👋</h1>
-<h3 align="center">Engineering Manager & Solution Architect · Fintech & Payments</h3>
+<h3 align="center">Engineering Manager & Solution Architect · Fintech · Logistics & Supply Chain</h3>
 
 <p align="center">
   <a href="https://satyendra.dev">Website</a> ·
@@ -10,29 +10,36 @@
 ---
 
 ### About me
-I architect secure, high-throughput payment systems that power millions of
-transactions daily, from ISO 8583 protocol engines and EMV card processing to
-UPI infrastructure and soundbox platforms. I've spent 10+ years in fintech at
-one company, growing from intern to Engineering Manager, based in Mumbai, India.
+I'm a solution architect and hands-on engineering leader who designs, builds and ships complete domain systems end to end, from architecture and data models to production delivery and operations.
 
-I lead teams of 20+ engineers, set architecture standards, mentor senior
-engineers, and turn complex payment-ecosystem requirements into PCI-DSS-compliant
-systems with five-nines reliability.
+**Fintech & payments:** 10+ years architecting secure, high-throughput payment systems that process millions of transactions daily, from ISO 8583 protocol engines and EMV card processing to UPI infrastructure and soundbox platforms. I grew from intern to Engineering Manager at one company, and I'm based in Mumbai, India.
+
+**Logistics & supply chain:** I've also worked on logistics and supply chain platforms end to end, so my expertise is not tied to one industry. I pick up a new domain, model it properly, and deliver a system that holds up in production.
+
+I lead teams of 20+ engineers, set architecture standards, mentor senior engineers, and turn complex domain requirements into compliant, reliable systems with five-nines uptime.
 
 ### By the numbers
-| 10+ | 10M+ | 99.99% | 20+ |
-|:---:|:---:|:---:|:---:|
-| Years in fintech | Daily transactions | System uptime | Engineers led |
+<table width="100%">
+  <tr align="center">
+    <td width="25%"><h3>10+</h3>Years in fintech</td>
+    <td width="25%"><h3>10M+</h3>Daily transactions</td>
+    <td width="25%"><h3>99.99%</h3>System uptime</td>
+    <td width="25%"><h3>20+</h3>Engineers led</td>
+  </tr>
+</table>
 
 ### What I work on
+- **Solution architecture:** end-to-end design and delivery of domain systems
 - **Payment systems:** ISO 8583 · EMV · UPI · Contactless · Soundbox
 - **Security & compliance:** PCI-DSS L1 · HSM cryptography · Tokenisation · 3DS
 - **Protocols & products:** MPOC / SoftPOS · CPOC · Multi-Acquiring · DCC
+- **Logistics & supply chain:** end-to-end platform architecture and development
 - **Leadership:** architecture standards · mentoring · cross-team delivery
 
 ### Tech
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 
@@ -40,5 +47,4 @@ systems with five-nines reliability.
 MCA, Master of Computer Applications (2013–2016) · BCA (2010–2013)
 
 ### Let's connect
-Open to conversations on payments architecture, engineering leadership, and
-fintech platforms. Reach me at [hi@satyendra.dev](mailto:hi@satyendra.dev).
+Open to conversations on solution architecture, payments, logistics and supply chain platforms, and engineering leadership. Reach me at [hi@satyendra.dev](mailto:hi@satyendra.dev).
