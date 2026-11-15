@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Satyendra Singh 👋</h1>
-<h3 align="center">Engineering Manager & Solution Architect · Fintech · Logistics & Supply Chain</h3>
+<h3 align="center">Engineering Manager & Solution Architect · Complex Domain Systems, End to End</h3>
 
 <p align="center">
   <a href="https://satyendra.dev">Website</a> ·
@@ -10,13 +10,11 @@
 ---
 
 ### About me
-I'm a solution architect and hands-on engineering leader who designs, builds and ships complete domain systems end to end, from architecture and data models to production delivery and operations.
+I'm a solution architect and engineering leader who takes complex, high-stakes domains from first principles to production. I design the architecture, model the domain, build the systems hands-on, and lead the teams that run them at scale.
 
-**Fintech & payments:** 10+ years architecting secure, high-throughput payment systems that process millions of transactions daily, from ISO 8583 protocol engines and EMV card processing to UPI infrastructure and soundbox platforms. I grew from intern to Engineering Manager at one company, and I'm based in Mumbai, India.
+Over 10+ years I've delivered platforms end to end across payments and logistics and supply chain. That range taught me to learn a new domain quickly, find where the real complexity lives, and build systems that stay correct under load. In payments, that means secure, high-throughput systems processing millions of transactions daily, from ISO 8583 protocol engines and EMV card processing to UPI infrastructure and soundbox platforms.
 
-**Logistics & supply chain:** I've also worked on logistics and supply chain platforms end to end, so my expertise is not tied to one industry. I pick up a new domain, model it properly, and deliver a system that holds up in production.
-
-I lead teams of 20+ engineers, set architecture standards, mentor senior engineers, and turn complex domain requirements into compliant, reliable systems with five-nines uptime.
+I grew from intern to Engineering Manager at one company, and I'm based in Mumbai, India. Today I lead teams of 20+ engineers, set architecture standards, mentor senior engineers, and turn demanding requirements into compliant, reliable systems with five-nines uptime.
 
 ### By the numbers
 <p align="center">
@@ -27,11 +25,11 @@ I lead teams of 20+ engineers, set architecture standards, mentor senior enginee
 </p>
 
 ### What I work on
-- **Solution architecture:** end-to-end design and delivery of domain systems
+- **Solution architecture:** end-to-end design, development and delivery of domain systems across industries
+- **Platform engineering:** high-throughput, resilient systems built to five-nines targets
 - **Payment systems:** ISO 8583 · EMV · UPI · Contactless · Soundbox
 - **Security & compliance:** PCI-DSS L1 · HSM cryptography · Tokenisation · 3DS
 - **Protocols & products:** MPOC / SoftPOS · CPOC · Multi-Acquiring · DCC
-- **Logistics & supply chain:** end-to-end platform architecture and development
 - **Leadership:** architecture standards · mentoring · cross-team delivery
 
 ### Tech
@@ -45,4 +43,4 @@ I lead teams of 20+ engineers, set architecture standards, mentor senior enginee
 MCA, Master of Computer Applications (2013–2016) · BCA (2010–2013)
 
 ### Let's connect
-Open to conversations on solution architecture, payments, logistics and supply chain platforms, and engineering leadership. Reach me at [hi@satyendra.dev](mailto:hi@satyendra.dev).
+Open to conversations on solution architecture, platform engineering, payments, and engineering leadership. Reach me at [hi@satyendra.dev](mailto:hi@satyendra.dev).
